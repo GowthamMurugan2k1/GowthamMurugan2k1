@@ -1,3 +1,4 @@
+![Coding](https://i.redd.it/n8agw6z2smyb1.gif "a coding")
 # 💫 About Me:
 🔭 I’m currently working on my portfolio using Next.js<br><br>🌱 I’m currently learning TypeScript, React Native, Node.js<br><br>💬 Ask me about React.js, Next.js , HTML5, CSS3 and SCSS, Vanilla JS, BootStrap and Tailwind<br><br>📫 How to reach me gowthamofficial2k@gmail.com
 
